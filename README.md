@@ -3,4 +3,4 @@
 - 🎓 Studying Systems Analysis and Development
 - 📚 Discovering the Front-end universe
 
-https://github-readme-stats.vercel.app/api?username=kaykyrod
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaykyrod)](https://github.com/anuraghazra/github-readme-stats)
