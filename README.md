@@ -1,7 +1,7 @@
 <h1 id="-about-me-">👋 console.log('Hello, world!')</h1>
 
 - 🎓 Studying Systems Analysis and Development
-- 📚 Discovering the Front-end universe
+- 🪐 Discovering the Front-end universe
   
 <h1 id="-tech-stack-">💻 Tech Stack:</h1>
 
